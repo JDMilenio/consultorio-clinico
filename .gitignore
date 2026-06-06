@@ -9,3 +9,8 @@ out/
 # OS
 .DS_Store
 Thumbs.db
+
+# Editor swap files
+*.swp
+*.swo
+*~

@@ -1,0 +1,2 @@
+# Ignorar datos de ejecución — solo se conserva la estructura del directorio
+*.csv
