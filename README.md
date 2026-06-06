@@ -55,7 +55,7 @@ Main        (punto de entrada)
 
 1. Clonar el repositorio:
    ```
-   git clone https://github.com/juandediosgonzalez/consultorio-clinico
+   git clone https://github.com/JDMilenio/consultorio-clinico
    ```
 2. Abrir el proyecto en IntelliJ IDEA
 3. Verificar JDK en `File > Project Structure > SDK` (requiere Java 21+)
